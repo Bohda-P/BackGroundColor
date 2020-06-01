@@ -1,0 +1,41 @@
+#btn{
+    position: absolute;
+    left: 60%;
+    width: 110px;
+    padding: 100px;
+}
+#btn_sec{
+    position: absolute;
+    right: 60%;
+    width: 110px;
+    padding: 100px;
+    width: 235px;
+}
+#change-hex{
+    position: relative;
+    left: 0px;
+}
+button{
+    background-color: rgb(19, 33, 158);
+    border-radius: 30px;
+    border: none;
+    color: white;
+    font-size: 20px;
+    cursor: pointer;
+    text-decoration: none;
+    position: absolute;
+    display: block;
+    left: 50%;
+}
+button:hover{
+    background-color: aqua;
+    color: #000000;
+    border: none;
+}
+body{
+    background-color: tomato;
+}
+h1{
+    text-transform: uppercase;
+    position: relative;
+}
